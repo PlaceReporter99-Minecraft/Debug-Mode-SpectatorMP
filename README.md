@@ -1,2 +1,2 @@
 # Debug-Mode-SpectatorMP
-The Debug Mode Minecraft server
+The Debug Mode Minecraft server!
